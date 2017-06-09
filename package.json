@@ -1,0 +1,22 @@
+{
+    "name": "gram",
+    "version": "1.0",
+    "description": "A simple regular grammar/parser generator",
+    "author": "Victor Grishchenko <victor.grishchenko@gmail.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "scripts": {
+        "test": "node ./test.js"
+    },
+    "keywords": [
+        "regular",
+        "grammar",
+        "protocol",
+        "parser",
+        "regex"
+    ],
+    "license": "MIT"
+}
